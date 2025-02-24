@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning HTML, CSS and Javascript.
 - 💞️ I’m looking to collaborate on projects and innovative ideas.
 - 📫 How to reach me? You can reach me via my email: omaricolin22@gmail.com... phone number: 0768623524...Github account: Omaricolin.
-- 😄 Pronouns: Mr Omari.
+- 😄 Pronouns: Mr/Him/He.
 - ⚡ Fun fact: I like learning new things in different fields focusing on science and technology.
 
 <!---
